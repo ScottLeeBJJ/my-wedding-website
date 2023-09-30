@@ -26,10 +26,12 @@ body {
     font-size: 17px;
     width: 100px; 
     text-align: center; 
+    border-radius: 30px;
+    font-weight: bold;
 }
 
 .links-wrapper a:hover {
-    background-color: seagreen;
+    background-color: #87ae73;
   }
 
 .content-wrapper img {
@@ -41,5 +43,11 @@ body {
 .content {
     width: 400px;
     font-size: 30px;
+    position: relative;
+    left: 750px;
+    padding-top: 20px;
 }
 
+.hashtag {
+    padding-top: 50px;
+}
