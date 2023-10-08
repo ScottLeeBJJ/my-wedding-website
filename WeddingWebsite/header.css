@@ -15,7 +15,9 @@
 }
 
 .title {
-    font-size: 50px;
+    font-family: 'Tangerine', serif;
+    text-shadow: 4px 4px 4px #aaa;
+    font-size: 80px;
     display: flex;
     justify-content: center;
 }
