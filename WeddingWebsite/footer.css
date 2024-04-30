@@ -2,6 +2,10 @@
     background-color: #87ae73;
     color: black;
 
-    height: 200px;
+    height: 100px;
     width: 100%;
+}
+
+.made-by {
+    color: black;
 }
